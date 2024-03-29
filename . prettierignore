@@ -1,0 +1,16 @@
+build
+coverage
+**/*.html
+**/*.md
+
+.husky
+dist
+public
+
+**/.git
+**/.hg
+**/node_modules
+
+vite.config.ts
+**/*.json
+**/*.env
